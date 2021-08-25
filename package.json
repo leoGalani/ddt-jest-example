@@ -1,0 +1,16 @@
+{
+  "name": "ddt-jest-example",
+  "version": "1.0.0",
+  "description": "ddt example that uses nodejs + jest",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest spec/ --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-jest": "^27.0.6",
+    "jest": "^27.0.6"
+  }
+}
