@@ -16,7 +16,7 @@ npm install
 ### Run
 
 ```
-npm test jest
+npm test
 ```
 
 ### Examples
